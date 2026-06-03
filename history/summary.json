@@ -22,21 +22,21 @@
     "url": "$DOTIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "it-domain",
-    "status": "down",
+    "status": "up",
     "uptime": "72.97%",
-    "uptimeDay": "90.49%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.92%",
-    "time": 683,
-    "timeDay": 0,
-    "timeWeek": 535,
-    "timeMonth": 645,
+    "uptimeDay": "79.39%",
+    "uptimeWeek": "97.06%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "99.89%",
+    "time": 684,
+    "timeDay": 674,
+    "timeWeek": 555,
+    "timeMonth": 646,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2026-05-10": 158,
       "2026-05-19": 105,
-      "2026-06-03": 137
+      "2026-06-03": 297
     }
   }
 ]
