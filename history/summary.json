@@ -24,10 +24,10 @@
     "slug": "it-domain",
     "status": "down",
     "uptime": "73.28%",
-    "uptimeDay": "29.23%",
-    "uptimeWeek": "82.90%",
-    "uptimeMonth": "95.39%",
-    "uptimeYear": "99.57%",
+    "uptimeDay": "18.80%",
+    "uptimeWeek": "81.41%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "99.54%",
     "time": 699,
     "timeDay": 2433,
     "timeWeek": 1236,
@@ -38,7 +38,8 @@
       "2026-05-19": 105,
       "2026-06-03": 297,
       "2026-06-26": 705,
-      "2026-06-27": 1019
+      "2026-06-27": 1020,
+      "2026-06-28": 149
     }
   }
 ]
