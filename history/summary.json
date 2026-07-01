@@ -22,17 +22,17 @@
     "url": "$DOTIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "it-domain",
-    "status": "down",
-    "uptime": "73.22%",
-    "uptimeDay": "29.26%",
-    "uptimeWeek": "54.19%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "99.02%",
-    "time": 725,
-    "timeDay": 1942,
-    "timeWeek": 1890,
-    "timeMonth": 1109,
-    "timeYear": 753,
+    "status": "up",
+    "uptime": "73.20%",
+    "uptimeDay": "19.73%",
+    "uptimeWeek": "49.45%",
+    "uptimeMonth": "87.69%",
+    "uptimeYear": "98.92%",
+    "time": 728,
+    "timeDay": 1908,
+    "timeWeek": 1887,
+    "timeMonth": 1129,
+    "timeYear": 756,
     "dailyMinutesDown": {
       "2026-05-10": 158,
       "2026-05-19": 105,
@@ -42,7 +42,7 @@
       "2026-06-28": 889,
       "2026-06-29": 984,
       "2026-06-30": 869,
-      "2026-07-01": 150
+      "2026-07-01": 628
     }
   }
 ]
