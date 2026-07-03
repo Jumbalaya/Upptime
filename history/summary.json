@@ -22,11 +22,11 @@
     "url": "$DOTIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "it-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "73.15%",
-    "uptimeDay": "9.60%",
+    "uptimeDay": "20.39%",
     "uptimeWeek": "29.08%",
-    "uptimeMonth": "83.20%",
+    "uptimeMonth": "83.55%",
     "uptimeYear": "98.53%",
     "time": 733,
     "timeDay": 1728,
@@ -43,7 +43,8 @@
       "2026-06-29": 984,
       "2026-06-30": 869,
       "2026-07-01": 1266,
-      "2026-07-02": 1415
+      "2026-07-02": 1415,
+      "2026-07-03": 0
     }
   }
 ]
